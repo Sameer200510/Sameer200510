@@ -6,8 +6,9 @@
 ███████║██║  ██║██║ ╚═╝ ██║███████╗███████╗██║  ██║
 ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
 
-sameer@github
-----------------------------------------------
+sameer.lohani@github
+------------------------------------------------
+Name: SAMEER LOHANI  
 OS: Windows 11 / Kali Linux  
 Role: Cybersecurity Learner  
 Focus: VAPT | CTF | Blockchain Security  
@@ -89,7 +90,7 @@ Focus: VAPT | CTF | Blockchain Security
 
 ## 📫 Connect With Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 📧 Email: [sameerlohani200510@gmail.com](mailto:your-email@example.com)
 * 💼 LinkedIn: your-linkedin-link
 * 🐙 GitHub: https://github.com/Sameer200510
 
