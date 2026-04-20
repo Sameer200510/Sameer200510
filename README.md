@@ -1,26 +1,12 @@
 <div align="center">
-
-[![Header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:001200,60:001200,100:000000&height=220&text=SAMEER%20LOHANI&fontSize=78&fontColor=00ff41&animation=fadeIn&fontAlign=50&fontAlignY=42&desc=sameer.lohani%40github%3A~%24%20%20%7C%20%20Cybersecurity%20Learner&descColor=39ff14&descSize=19&descAlignY=70&stroke=00ff41&strokeWidth=1)](https://github.com/Sameer200510)
-
+  <img src="./header.svg" width="100%" alt="SAMEER LOHANI - Matrix Header"/>
 </div>
-
-```bash
-sameer.lohani@github:~$ cat whoami.txt
-╔══════════════════════════════════════════════════════╗
-║  👤  Name   :  SAMEER LOHANI                        ║
-║  💻  OS     :  Windows 11 / Kali Linux              ║
-║  🛡️  Role   :  Cybersecurity Learner                ║
-║  🎯  Focus  :  VAPT | CTF | Blockchain Security     ║
-║                                                      ║
-║              ready to hack the world...              ║
-╚══════════════════════════════════════════════════════╝
-```
 
 ---
 
 ## 👋 Hi, I'm SAMEER LOHANI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&background=00000000&center=false&vCenter=true&width=600&lines=Cybersecurity+Enthusiast+%7C+Ethical+Hacking+Learner+%7C+Tech+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&background=00000000&center=false&vCenter=true&width=620&lines=Cybersecurity+Enthusiast+%7C+Ethical+Hacking+Learner+%7C+Tech+Explorer" alt="Typing SVG" />
 
 ---
 
@@ -59,13 +45,13 @@ sameer.lohani@github:~$ cat whoami.txt
 ### 🛠️ TOOLS I USE
 
 <p>
-  <img src="https://img.shields.io/badge/Nmap-003300?style=for-the-badge&logo=nmap&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/Burp_Suite-003300?style=for-the-badge&logo=burpsuite&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/Wireshark-003300?style=for-the-badge&logo=wireshark&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Nmap-003300?style=for-the-badge&logo=nmap&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-003300?style=for-the-badge&logo=burpsuite&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Wireshark-003300?style=for-the-badge&logo=wireshark&logoColor=00ff41"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Metasploit-003300?style=for-the-badge&logo=metasploit&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/Kali_Linux-003300?style=for-the-badge&logo=kalilinux&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Metasploit-003300?style=for-the-badge&logo=metasploit&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-003300?style=for-the-badge&logo=kalilinux&logoColor=00ff41"/>
 </p>
 
 ---
@@ -89,9 +75,9 @@ sameer.lohani@github:~$ cat whoami.txt
 
 ### 📊 GITHUB STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sameer200510&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00cc33&ring_color=00ff41" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sameer200510&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00cc33&ring_color=00ff41" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer200510&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00cc33&langs_count=5" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer200510&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00cc33&langs_count=5" width="100%"/>
 
 ---
 
@@ -128,9 +114,7 @@ sameer.lohani@github:~$ ls ./active/
 ### 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
-
-![Snake animation](https://github.com/Sameer200510/Sameer200510/blob/output/github-contribution-grid-snake-dark.svg)
-
+  <img src="https://github.com/Sameer200510/Sameer200510/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
