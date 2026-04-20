@@ -1,3 +1,18 @@
+<pre>
+███████╗ █████╗ ███╗   ███╗███████╗███████╗██████╗ 
+██╔════╝██╔══██╗████╗ ████║██╔════╝██╔════╝██╔══██╗
+███████╗███████║██╔████╔██║█████╗  █████╗  ██████╔╝
+╚════██║██╔══██║██║╚██╔╝██║██╔══╝  ██╔══╝  ██╔══██╗
+███████║██║  ██║██║ ╚═╝ ██║███████╗███████╗██║  ██║
+╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+
+sameer@github
+----------------------------------------------
+OS: Windows 11 / Kali Linux  
+Role: Cybersecurity Learner  
+Focus: VAPT | CTF | Blockchain Security  
+</pre>
+
 # 👋 Hi, I'm SAMEER LOHANI
 
 🚀 Cybersecurity Enthusiast | Ethical Hacking Learner | Tech Explorer
@@ -7,14 +22,9 @@
 ## 🔐 About Me
 
 * 🎯 Passionate about **Cybersecurity & Ethical Hacking**
-* 🛠️ Interested in **VAPT (Web + Network Security)**
-* 💻 Love building **automation scripts & security tools**
-* 📚 Currently learning:
-
-  * Networking & Protocols
-  * Web Application Security
-  * Linux & Kali Linux
-  * Blockchain Security
+* 🛠️ Focused on **VAPT (Web + Network Security)**
+* 💻 Building **automation scripts & tools**
+* ⛓️ Exploring **Blockchain & Smart Contract Security**
 
 ---
 
@@ -60,19 +70,19 @@
 
 ## 🧠 Currently Working On
 
-* 🔧 Building custom **recon tools**
-* 🛡️ Practicing **CTF challenges**
-* ⛓️ Learning **Smart Contract Security**
-* 📂 Uploading **cybersecurity projects**
+* 🔧 Recon Automation Tools
+* 🛡️ CTF Challenges
+* ⛓️ Smart Contract Security
+* 📂 Cybersecurity Projects
 
 ---
 
 ## 📌 Featured Projects
 
 * 🔐 Web Vulnerability Scanner
-* 🌐 Network Scanner Tool
-* 🧪 Basic Password Cracker
-* 📡 Recon Automation Script
+* 🌐 Network Scanner
+* 🧪 Password Cracker
+* 📡 Recon Script
 * ⛓️ Smart Contract Audit Practice
 
 ---
@@ -97,4 +107,4 @@
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+⭐ *Star my repos if you like my work*
