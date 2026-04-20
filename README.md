@@ -60,7 +60,7 @@
 
 [![GitHub](https://img.shields.io/badge/github.com%2FSameer200510-0d1117?style=flat-square&logo=github&logoColor=00ff41)](https://github.com/Sameer200510)
 [![Email](https://img.shields.io/badge/sameerlohani200510%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=00ff41)](mailto:sameerlohani200510@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/www.linkedin.com/in/sameer-lohani-8b28a3291-0d1117?style=flat-square&logo=linkedin&logoColor=00ff41)](www.linkedin.com/in/sameer-lohani-8b28a3291)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/sameer-lohani-8b28a3291)
 
 ---
 
