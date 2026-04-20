@@ -1,8 +1,6 @@
 <svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
-      
       @keyframes fall {
         0% { transform: translateY(-100%); opacity: 0; }
         10% { opacity: 1; }
@@ -13,27 +11,35 @@
       .binary-column {
         animation: fall linear infinite;
         fill: #00ff41;
-        font-family: 'Share Tech Mono', 'Courier New', monospace;
+        font-family: 'Courier New', 'Courier', monospace;
         font-size: 14px;
         opacity: 0.6;
       }
       
       .main-text {
-        font-family: 'Share Tech Mono', 'Courier New', monospace;
+        font-family: 'Courier New', 'Courier', monospace;
         font-weight: bold;
-        font-size: 120px;
+        font-size: 100px;
         fill: #00ff41;
         stroke: #003b0f;
-        stroke-width: 2;
-        letter-spacing: 12px;
-        filter: drop-shadow(0 0 10px #00ff41) drop-shadow(0 0 20px #00ff41);
+        stroke-width: 3;
+        letter-spacing: 16px;
+        filter: drop-shadow(0 0 10px #00ff41) drop-shadow(0 0 20px #00ff41) drop-shadow(0 0 30px #00ff41);
+        paint-order: stroke fill;
       }
       
       .glow {
         fill: none;
         stroke: #00ff41;
         stroke-width: 3;
-        opacity: 0.3;
+        opacity: 0.2;
+      }
+      
+      .glow-outer {
+        fill: none;
+        stroke: #00ff41;
+        stroke-width: 1;
+        opacity: 0.1;
       }
     </style>
   </defs>
@@ -41,7 +47,7 @@
   <!-- Dark background -->
   <rect width="1200" height="400" fill="#0d0d0d"/>
   
-  <!-- Binary rain columns -->
+  <!-- Binary rain columns - Left side -->
   <g class="binary-rain">
     <text class="binary-column" x="50" y="0" style="animation-duration: 8s; animation-delay: 0s;">
       <tspan x="50" dy="20">1</tspan>
@@ -51,6 +57,8 @@
       <tspan x="50" dy="20">0</tspan>
       <tspan x="50" dy="20">1</tspan>
       <tspan x="50" dy="20">0</tspan>
+      <tspan x="50" dy="20">0</tspan>
+      <tspan x="50" dy="20">1</tspan>
       <tspan x="50" dy="20">0</tspan>
     </text>
     
@@ -62,6 +70,7 @@
       <tspan x="120" dy="20">1</tspan>
       <tspan x="120" dy="20">0</tspan>
       <tspan x="120" dy="20">1</tspan>
+      <tspan x="120" dy="20">0</tspan>
     </text>
     
     <text class="binary-column" x="190" y="0" style="animation-duration: 7s; animation-delay: 2s;">
@@ -71,6 +80,7 @@
       <tspan x="190" dy="20">0</tspan>
       <tspan x="190" dy="20">1</tspan>
       <tspan x="190" dy="20">0</tspan>
+      <tspan x="190" dy="20">1</tspan>
     </text>
     
     <text class="binary-column" x="260" y="0" style="animation-duration: 9s; animation-delay: 0.5s;">
@@ -81,6 +91,7 @@
       <tspan x="260" dy="20">1</tspan>
       <tspan x="260" dy="20">0</tspan>
       <tspan x="260" dy="20">1</tspan>
+      <tspan x="260" dy="20">0</tspan>
     </text>
     
     <text class="binary-column" x="330" y="0" style="animation-duration: 5.5s; animation-delay: 1.5s;">
@@ -90,55 +101,74 @@
       <tspan x="330" dy="20">1</tspan>
       <tspan x="330" dy="20">1</tspan>
       <tspan x="330" dy="20">0</tspan>
+      <tspan x="330" dy="20">1</tspan>
     </text>
     
-    <text class="binary-column" x="900" y="0" style="animation-duration: 7.5s; animation-delay: 0.3s;">
-      <tspan x="900" dy="20">0</tspan>
-      <tspan x="900" dy="20">1</tspan>
-      <tspan x="900" dy="20">0</tspan>
-      <tspan x="900" dy="20">1</tspan>
-      <tspan x="900" dy="20">0</tspan>
-      <tspan x="900" dy="20">1</tspan>
+    <!-- Right side columns -->
+    <text class="binary-column" x="870" y="0" style="animation-duration: 6.8s; animation-delay: 0.7s;">
+      <tspan x="870" dy="20">1</tspan>
+      <tspan x="870" dy="20">0</tspan>
+      <tspan x="870" dy="20">1</tspan>
+      <tspan x="870" dy="20">0</tspan>
+      <tspan x="870" dy="20">1</tspan>
+      <tspan x="870" dy="20">1</tspan>
+      <tspan x="870" dy="20">0</tspan>
     </text>
     
-    <text class="binary-column" x="970" y="0" style="animation-duration: 6.5s; animation-delay: 1.2s;">
-      <tspan x="970" dy="20">1</tspan>
-      <tspan x="970" dy="20">1</tspan>
-      <tspan x="970" dy="20">0</tspan>
-      <tspan x="970" dy="20">1</tspan>
-      <tspan x="970" dy="20">0</tspan>
-      <tspan x="970" dy="20">0</tspan>
+    <text class="binary-column" x="940" y="0" style="animation-duration: 7.5s; animation-delay: 0.3s;">
+      <tspan x="940" dy="20">0</tspan>
+      <tspan x="940" dy="20">1</tspan>
+      <tspan x="940" dy="20">0</tspan>
+      <tspan x="940" dy="20">1</tspan>
+      <tspan x="940" dy="20">0</tspan>
+      <tspan x="940" dy="20">1</tspan>
+      <tspan x="940" dy="20">0</tspan>
     </text>
     
-    <text class="binary-column" x="1040" y="0" style="animation-duration: 8.5s; animation-delay: 0.8s;">
-      <tspan x="1040" dy="20">0</tspan>
-      <tspan x="1040" dy="20">0</tspan>
-      <tspan x="1040" dy="20">1</tspan>
-      <tspan x="1040" dy="20">1</tspan>
-      <tspan x="1040" dy="20">0</tspan>
-      <tspan x="1040" dy="20">1</tspan>
+    <text class="binary-column" x="1010" y="0" style="animation-duration: 6.5s; animation-delay: 1.2s;">
+      <tspan x="1010" dy="20">1</tspan>
+      <tspan x="1010" dy="20">1</tspan>
+      <tspan x="1010" dy="20">0</tspan>
+      <tspan x="1010" dy="20">1</tspan>
+      <tspan x="1010" dy="20">0</tspan>
+      <tspan x="1010" dy="20">0</tspan>
+      <tspan x="1010" dy="20">1</tspan>
     </text>
     
-    <text class="binary-column" x="1110" y="0" style="animation-duration: 7s; animation-delay: 1.8s;">
-      <tspan x="1110" dy="20">1</tspan>
-      <tspan x="1110" dy="20">0</tspan>
-      <tspan x="1110" dy="20">1</tspan>
-      <tspan x="1110" dy="20">0</tspan>
-      <tspan x="1110" dy="20">1</tspan>
-      <tspan x="1110" dy="20">1</tspan>
+    <text class="binary-column" x="1080" y="0" style="animation-duration: 8.5s; animation-delay: 0.8s;">
+      <tspan x="1080" dy="20">0</tspan>
+      <tspan x="1080" dy="20">0</tspan>
+      <tspan x="1080" dy="20">1</tspan>
+      <tspan x="1080" dy="20">1</tspan>
+      <tspan x="1080" dy="20">0</tspan>
+      <tspan x="1080" dy="20">1</tspan>
+      <tspan x="1080" dy="20">0</tspan>
+    </text>
+    
+    <text class="binary-column" x="1150" y="0" style="animation-duration: 7s; animation-delay: 1.8s;">
+      <tspan x="1150" dy="20">1</tspan>
+      <tspan x="1150" dy="20">0</tspan>
+      <tspan x="1150" dy="20">1</tspan>
+      <tspan x="1150" dy="20">0</tspan>
+      <tspan x="1150" dy="20">1</tspan>
+      <tspan x="1150" dy="20">1</tspan>
+      <tspan x="1150" dy="20">0</tspan>
     </text>
   </g>
   
-  <!-- Glow effect behind text -->
-  <rect class="glow" x="100" y="150" width="1000" height="110" rx="10"/>
+  <!-- Outer glow effect -->
+  <rect class="glow-outer" x="80" y="140" width="1040" height="130" rx="15"/>
+  
+  <!-- Inner glow effect -->
+  <rect class="glow" x="90" y="150" width="1020" height="110" rx="10"/>
   
   <!-- Main text: SAMEER LOHANI -->
-  <text class="main-text" x="600" y="250" text-anchor="middle">
+  <text class="main-text" x="600" y="240" text-anchor="middle">
     SAMEER LOHANI
   </text>
   
   <!-- Scanline effect -->
-  <rect width="1200" height="2" y="200" fill="#00ff41" opacity="0.1">
+  <rect width="1200" height="2" y="200" fill="#00ff41" opacity="0.15">
     <animate attributeName="y" from="0" to="400" dur="3s" repeatCount="indefinite"/>
   </rect>
 </svg>
