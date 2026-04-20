@@ -1,101 +1,102 @@
-<g id="name" transform="translate(100,120)" fill="#cfd2d6" stroke="#cfd2d6" stroke-width="2">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350">
+<defs>
+<filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+<feGaussianBlur stdDeviation="3.5" result="blur" />
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+<filter id="slight-glow" x="-20%" y="-20%" width="140%" height="140%">
+<feGaussianBlur stdDeviation="1.5" result="blur" />
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+<style>
+.matrix-rain { font-family: monospace; font-size: 16px; fill: #00ff41; }
+.bold-cyber { font-family: monospace; font-weight: 900; }
+</style>
+</defs>
 
-  <!-- S -->
-  <g transform="translate(0,0)">
-    <rect x="0" y="0" width="80" height="20"/>
-    <rect x="0" y="40" width="80" height="20"/>
-    <rect x="0" y="80" width="80" height="20"/>
-    <rect x="0" y="0" width="20" height="60"/>
-    <rect x="60" y="40" width="20" height="60"/>
-  </g>
+<rect width="1200" height="350" fill="#050505" rx="12" ry="12" stroke="#00ff41" stroke-width="2" filter="url(#slight-glow)"/>
 
-  <!-- A -->
-  <g transform="translate(110,0)">
-    <rect x="0" y="0" width="80" height="20"/>
-    <rect x="0" y="40" width="80" height="20"/>
-    <rect x="0" y="80" width="80" height="20"/>
-    <rect x="0" y="0" width="20" height="100"/>
-    <rect x="60" y="0" width="20" height="100"/>
-  </g>
+<g class="matrix-rain">
+<text x="50" y="-200" opacity="0.7">
+<tspan x="50" dy="16">1</tspan><tspan x="50" dy="16">0</tspan><tspan x="50" dy="16">1</tspan><tspan x="50" dy="16">1</tspan><tspan x="50" dy="16">0</tspan><tspan x="50" dy="16">0</tspan><tspan x="50" dy="16">1</tspan><tspan x="50" dy="16">0</tspan><tspan x="50" dy="16">1</tspan><tspan x="50" dy="16">1</tspan><tspan x="50" dy="16">0</tspan><tspan x="50" dy="16">1</tspan>
+<animateTransform attributeName="transform" type="translate" from="0 -50" to="0 600" dur="4s" repeatCount="indefinite"/>
+</text>
+<text x="90" y="-100" opacity="0.4">
+<tspan x="90" dy="16">0</tspan><tspan x="90" dy="16">1</tspan><tspan x="90" dy="16">0</tspan><tspan x="90" dy="16">1</tspan><tspan x="90" dy="16">1</tspan><tspan x="90" dy="16">1</tspan><tspan x="90" dy="16">0</tspan><tspan x="90" dy="16">0</tspan>
+<animateTransform attributeName="transform" type="translate" from="0 -150" to="0 550" dur="6s" repeatCount="indefinite"/>
+</text>
+<text x="130" y="-300" opacity="0.9">
+<tspan x="130" dy="16">1</tspan><tspan x="130" dy="16">1</tspan><tspan x="130" dy="16">0</tspan><tspan x="130" dy="16">0</tspan><tspan x="130" dy="16">1</tspan><tspan x="130" dy="16">0</tspan><tspan x="130" dy="16">1</tspan><tspan x="130" dy="16">0</tspan><tspan x="130" dy="16">0</tspan><tspan x="130" dy="16">1</tspan>
+<animateTransform attributeName="transform" type="translate" from="0 0" to="0 700" dur="3.5s" repeatCount="indefinite"/>
+</text>
+<text x="170" y="-150" opacity="0.5">
+<tspan x="170" dy="16">0</tspan><tspan x="170" dy="16">0</tspan><tspan x="170" dy="16">1</tspan><tspan x="170" dy="16">1</tspan><tspan x="170" dy="16">0</tspan><tspan x="170" dy="16">1</tspan><tspan x="170" dy="16">0</tspan>
+<animateTransform attributeName="transform" type="translate" from="0 -100" to="0 600" dur="5s" repeatCount="indefinite"/>
+</text>
+<text x="210" y="-250" opacity="0.8">
+<tspan x="210" dy="16">1</tspan><tspan x="210" dy="16">0</tspan><tspan x="210" dy="16">1</tspan><tspan x="210" dy="16">0</tspan><tspan x="210" dy="16">0</tspan><tspan x="210" dy="16">0</tspan><tspan x="210" dy="16">1</tspan><tspan x="210" dy="16">1</tspan><tspan x="210" dy="16">1</tspan>
+<animateTransform attributeName="transform" type="translate" from="0 -50" to="0 650" dur="4.2s" repeatCount="indefinite"/>
+</text>
 
-  <!-- M -->
-  <g transform="translate(220,0)">
-    <rect x="0" y="0" width="20" height="100"/>
-    <rect x="60" y="0" width="20" height="100"/>
-    <rect x="20" y="0" width="20" height="60"/>
-    <rect x="40" y="0" width="20" height="60"/>
-  </g>
-
-  <!-- E -->
-  <g transform="translate(330,0)">
-    <rect x="0" y="0" width="80" height="20"/>
-    <rect x="0" y="40" width="70" height="20"/>
-    <rect x="0" y="80" width="80" height="20"/>
-    <rect x="0" y="0" width="20" height="100"/>
-  </g>
-
-  <!-- E -->
-  <g transform="translate(440,0)">
-    <rect x="0" y="0" width="80" height="20"/>
-    <rect x="0" y="40" width="70" height="20"/>
-    <rect x="0" y="80" width="80" height="20"/>
-    <rect x="0" y="0" width="20" height="100"/>
-  </g>
-
-  <!-- R -->
-  <g transform="translate(550,0)">
-    <rect x="0" y="0" width="80" height="20"/>
-    <rect x="0" y="40" width="80" height="20"/>
-    <rect x="0" y="0" width="20" height="100"/>
-    <rect x="60" y="0" width="20" height="60"/>
-    <rect x="40" y="60" width="20" height="40"/>
-  </g>
-
-  <!-- SPACE -->
-
-  <!-- L -->
-  <g transform="translate(680,0)">
-    <rect x="0" y="0" width="20" height="100"/>
-    <rect x="0" y="80" width="80" height="20"/>
-  </g>
-
-  <!-- O -->
-  <g transform="translate(790,0)">
-    <rect x="0" y="0" width="80" height="20"/>
-    <rect x="0" y="80" width="80" height="20"/>
-    <rect x="0" y="0" width="20" height="100"/>
-    <rect x="60" y="0" width="20" height="100"/>
-  </g>
-
-  <!-- H -->
-  <g transform="translate(900,0)">
-    <rect x="0" y="0" width="20" height="100"/>
-    <rect x="60" y="0" width="20" height="100"/>
-    <rect x="0" y="40" width="80" height="20"/>
-  </g>
-
-  <!-- A -->
-  <g transform="translate(1010,0)">
-    <rect x="0" y="0" width="80" height="20"/>
-    <rect x="0" y="40" width="80" height="20"/>
-    <rect x="0" y="80" width="80" height="20"/>
-    <rect x="0" y="0" width="20" height="100"/>
-    <rect x="60" y="0" width="20" height="100"/>
-  </g>
-
-  <!-- N -->
-  <g transform="translate(1120,0)">
-    <rect x="0" y="0" width="20" height="100"/>
-    <rect x="60" y="0" width="20" height="100"/>
-    <rect x="20" y="20" width="20" height="60"/>
-    <rect x="40" y="40" width="20" height="60"/>
-  </g>
-
-  <!-- I -->
-  <g transform="translate(1230,0)">
-    <rect x="0" y="0" width="80" height="20"/>
-    <rect x="30" y="0" width="20" height="100"/>
-    <rect x="0" y="80" width="80" height="20"/>
-  </g>
-
+<text x="950" y="-200" opacity="0.8">
+  <tspan x="950" dy="16">1</tspan><tspan x="950" dy="16">0</tspan><tspan x="950" dy="16">0</tspan><tspan x="950" dy="16">1</tspan><tspan x="950" dy="16">1</tspan><tspan x="950" dy="16">0</tspan><tspan x="950" dy="16">1</tspan><tspan x="950" dy="16">0</tspan><tspan x="950" dy="16">1</tspan><tspan x="950" dy="16">0</tspan>
+  <animateTransform attributeName="transform" type="translate" from="0 -100" to="0 600" dur="4.5s" repeatCount="indefinite"/>
+</text>
+<text x="990" y="-100" opacity="0.5">
+  <tspan x="990" dy="16">0</tspan><tspan x="990" dy="16">1</tspan><tspan x="990" dy="16">1</tspan><tspan x="990" dy="16">0</tspan><tspan x="990" dy="16">0</tspan><tspan x="990" dy="16">1</tspan>
+  <animateTransform attributeName="transform" type="translate" from="0 -50" to="0 550" dur="5.5s" repeatCount="indefinite"/>
+</text>
+<text x="1030" y="-300" opacity="0.7">
+  <tspan x="1030" dy="16">1</tspan><tspan x="1030" dy="16">1</tspan><tspan x="1030" dy="16">0</tspan><tspan x="1030" dy="16">1</tspan><tspan x="1030" dy="16">1</tspan><tspan x="1030" dy="16">0</tspan><tspan x="1030" dy="16">0</tspan><tspan x="1030" dy="16">1</tspan><tspan x="1030" dy="16">1</tspan><tspan x="1030" dy="16">1</tspan><tspan x="1030" dy="16">0</tspan>
+  <animateTransform attributeName="transform" type="translate" from="0 -150" to="0 650" dur="3.8s" repeatCount="indefinite"/>
+</text>
+<text x="1070" y="-150" opacity="0.6">
+  <tspan x="1070" dy="16">0</tspan><tspan x="1070" dy="16">0</tspan><tspan x="1070" dy="16">1</tspan><tspan x="1070" dy="16">0</tspan><tspan x="1070" dy="16">1</tspan><tspan x="1070" dy="16">0</tspan><tspan x="1070" dy="16">0</tspan><tspan x="1070" dy="16">1</tspan>
+  <animateTransform attributeName="transform" type="translate" from="0 0" to="0 600" dur="4.8s" repeatCount="indefinite"/>
+</text>
+<text x="1110" y="-250" opacity="0.9">
+  <tspan x="1110" dy="16">1</tspan><tspan x="1110" dy="16">0</tspan><tspan x="1110" dy="16">1</tspan><tspan x="1110" dy="16">1</tspan><tspan x="1110" dy="16">0</tspan><tspan x="1110" dy="16">0</tspan><tspan x="1110" dy="16">1</tspan><tspan x="1110" dy="16">0</tspan><tspan x="1110" dy="16">1</tspan>
+  <animateTransform attributeName="transform" type="translate" from="0 -100" to="0 650" dur="4.1s" repeatCount="indefinite"/>
+</text>
 </g>
+
+<text x="30" y="40" font-family="monospace" font-size="16" fill="#00ff41" filter="url(#slight-glow)">sameer.lohani@github:~$</text>
+
+<g transform="translate(600, 160)">
+<text x="0" y="0" class="bold-cyber" font-size="68" fill="#050505" stroke="#00ff41" stroke-width="3" text-anchor="middle" filter="url(#glow)" letter-spacing="6">SAMEER LOHANI</text>
+<text x="0" y="0" class="bold-cyber" font-size="68" fill="#00ff41" text-anchor="middle" letter-spacing="6">SAMEER LOHANI</text>
+<path d="M -300 20 L -100 20 L -80 35 L 80 35 L 100 20 L 300 20" fill="none" stroke="#00ff41" stroke-width="2" filter="url(#slight-glow)"/>
+<path d="M -250 -60 L -150 -60 L -130 -45 L 130 -45 L 150 -60 L 250 -60" fill="none" stroke="#00ff41" stroke-width="2" filter="url(#slight-glow)"/>
+<circle cx="-300" cy="20" r="4" fill="#00ff41" filter="url(#glow)"/>
+<circle cx="300" cy="20" r="4" fill="#00ff41" filter="url(#glow)"/>
+<circle cx="-250" cy="-60" r="4" fill="#00ff41" filter="url(#glow)"/>
+<circle cx="250" cy="-60" r="4" fill="#00ff41" filter="url(#glow)"/>
+</g>
+
+<g transform="translate(30, 200)">
+<rect width="380" height="120" fill="#050505" stroke="#00ff41" stroke-width="2" rx="6" filter="url(#slight-glow)"/>
+<path d="M 0 30 L 380 30" fill="none" stroke="#00ff41" stroke-width="1" stroke-dasharray="4 4" filter="url(#slight-glow)"/>
+<rect x="10" y="8" width="12" height="12" fill="#00ff41" filter="url(#slight-glow)"/>
+<text x="32" y="20" font-family="monospace" font-size="14" font-weight="bold" fill="#00ff41" filter="url(#slight-glow)">SYSTEM INFO</text>
+
+<text font-family="monospace" font-size="14" fill="#00ff41" filter="url(#slight-glow)">
+  <tspan x="15" y="55"><tspan font-weight="bold">Name:</tspan> SAMEER LOHANI</tspan>
+  <tspan x="15" y="75"><tspan font-weight="bold">OS:</tspan> Windows 11 / Kali Linux</tspan>
+  <tspan x="15" y="95"><tspan font-weight="bold">Role:</tspan> Cybersecurity Learner</tspan>
+  <tspan x="15" y="115"><tspan font-weight="bold">Focus:</tspan> VAPT | CTF | Blockchain Security</tspan>
+</text>
+</g>
+
+<text x="1170" y="325" font-family="monospace" font-size="14" font-style="italic" fill="#00ff41" text-anchor="end" filter="url(#slight-glow)">"ready to hack the world..."</text>
+
+<rect x="1175" y="312" width="8" height="16" fill="#00ff41" filter="url(#glow)">
+<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+</svg>
