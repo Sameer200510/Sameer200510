@@ -1,101 +1,128 @@
-<g id="name" transform="translate(100,120)" fill="#cfd2d6" stroke="#cfd2d6" stroke-width="2">
+<div align="center">
+  <img src="./header.svg" width="100%" alt="SAMEER LOHANI - Matrix Header"/>
+</div>
 
-  <!-- S -->
-  <g transform="translate(0,0)">
-    <rect x="0" y="0" width="80" height="20"/>
-    <rect x="0" y="40" width="80" height="20"/>
-    <rect x="0" y="80" width="80" height="20"/>
-    <rect x="0" y="0" width="20" height="60"/>
-    <rect x="60" y="40" width="20" height="60"/>
-  </g>
+---
 
-  <!-- A -->
-  <g transform="translate(110,0)">
-    <rect x="0" y="0" width="80" height="20"/>
-    <rect x="0" y="40" width="80" height="20"/>
-    <rect x="0" y="80" width="80" height="20"/>
-    <rect x="0" y="0" width="20" height="100"/>
-    <rect x="60" y="0" width="20" height="100"/>
-  </g>
+## 👋 Hi, I'm SAMEER LOHANI
 
-  <!-- M -->
-  <g transform="translate(220,0)">
-    <rect x="0" y="0" width="20" height="100"/>
-    <rect x="60" y="0" width="20" height="100"/>
-    <rect x="20" y="0" width="20" height="60"/>
-    <rect x="40" y="0" width="20" height="60"/>
-  </g>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&background=00000000&center=false&vCenter=true&width=620&lines=Cybersecurity+Enthusiast+%7C+Ethical+Hacking+Learner+%7C+Tech+Explorer" alt="Typing SVG" />
 
-  <!-- E -->
-  <g transform="translate(330,0)">
-    <rect x="0" y="0" width="80" height="20"/>
-    <rect x="0" y="40" width="70" height="20"/>
-    <rect x="0" y="80" width="80" height="20"/>
-    <rect x="0" y="0" width="20" height="100"/>
-  </g>
+---
 
-  <!-- E -->
-  <g transform="translate(440,0)">
-    <rect x="0" y="0" width="80" height="20"/>
-    <rect x="0" y="40" width="70" height="20"/>
-    <rect x="0" y="80" width="80" height="20"/>
-    <rect x="0" y="0" width="20" height="100"/>
-  </g>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-  <!-- R -->
-  <g transform="translate(550,0)">
-    <rect x="0" y="0" width="80" height="20"/>
-    <rect x="0" y="40" width="80" height="20"/>
-    <rect x="0" y="0" width="20" height="100"/>
-    <rect x="60" y="0" width="20" height="60"/>
-    <rect x="40" y="60" width="20" height="40"/>
-  </g>
+### 🔐 ABOUT ME
 
-  <!-- SPACE -->
+- 🔥 Passionate about **Cybersecurity & Ethical Hacking**
+- 🌐 Focused on **VAPT** (Web + Network Security)
+- 🤖 Building **automation scripts & tools**
+- ⛓️ Exploring **Blockchain & Smart Contract Security**
 
-  <!-- L -->
-  <g transform="translate(680,0)">
-    <rect x="0" y="0" width="20" height="100"/>
-    <rect x="0" y="80" width="80" height="20"/>
-  </g>
+---
 
-  <!-- O -->
-  <g transform="translate(790,0)">
-    <rect x="0" y="0" width="80" height="20"/>
-    <rect x="0" y="80" width="80" height="20"/>
-    <rect x="0" y="0" width="20" height="100"/>
-    <rect x="60" y="0" width="20" height="100"/>
-  </g>
+### ⚡ SKILLS & TECHNOLOGIES
 
-  <!-- H -->
-  <g transform="translate(900,0)">
-    <rect x="0" y="0" width="20" height="100"/>
-    <rect x="60" y="0" width="20" height="100"/>
-    <rect x="0" y="40" width="80" height="20"/>
-  </g>
+**💻 Programming**
+- Python
+- Bash
+- Solidity
 
-  <!-- A -->
-  <g transform="translate(1010,0)">
-    <rect x="0" y="0" width="80" height="20"/>
-    <rect x="0" y="40" width="80" height="20"/>
-    <rect x="0" y="80" width="80" height="20"/>
-    <rect x="0" y="0" width="20" height="100"/>
-    <rect x="60" y="0" width="20" height="100"/>
-  </g>
+**🌐 Networking**
+- TCP/IP
+- DNS
+- OSI Model
 
-  <!-- N -->
-  <g transform="translate(1120,0)">
-    <rect x="0" y="0" width="20" height="100"/>
-    <rect x="60" y="0" width="20" height="100"/>
-    <rect x="20" y="20" width="20" height="60"/>
-    <rect x="40" y="40" width="20" height="60"/>
-  </g>
+**🔒 Cybersecurity**
+- Web Vulnerability Testing
+- Reconnaissance
+- Basic Exploitation
 
-  <!-- I -->
-  <g transform="translate(1230,0)">
-    <rect x="0" y="0" width="80" height="20"/>
-    <rect x="30" y="0" width="20" height="100"/>
-    <rect x="0" y="80" width="80" height="20"/>
-  </g>
+---
 
-</g>
+### 🛠️ TOOLS I USE
+
+<p>
+  <img src="https://img.shields.io/badge/Nmap-003300?style=for-the-badge&logo=nmap&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-003300?style=for-the-badge&logo=burpsuite&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Wireshark-003300?style=for-the-badge&logo=wireshark&logoColor=00ff41"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Metasploit-003300?style=for-the-badge&logo=metasploit&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-003300?style=for-the-badge&logo=kalilinux&logoColor=00ff41"/>
+</p>
+
+---
+
+### 📬 CONNECT WITH ME
+
+[![GitHub](https://img.shields.io/badge/github.com%2FSameer200510-0d1117?style=flat-square&logo=github&logoColor=00ff41)](https://github.com/Sameer200510)
+[![Email](https://img.shields.io/badge/your--email%40example.com-0d1117?style=flat-square&logo=gmail&logoColor=00ff41)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/your--linkedin--link-0d1117?style=flat-square&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/your-linkedin-link)
+
+---
+
+### 💡 QUOTE
+
+```bash
+> "Hack the system, but ethically."
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 GITHUB STATS
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sameer200510&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00cc33&ring_color=00ff41" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer200510&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00cc33&langs_count=5" width="100%"/>
+
+---
+
+### 🚧 CURRENTLY WORKING ON
+
+```bash
+sameer.lohani@github:~$ ls ./active/
+```
+
+| 🔰 | Project |
+|:---:|---------|
+| ⚙️ | **Recon Automation Tools** |
+| 🚩 | **CTF Challenges** |
+| ⛓️ | **Smart Contract Security** |
+| 🔐 | **Cybersecurity Projects** |
+
+---
+
+### 🚀 FEATURED PROJECTS
+
+[![Web Vulnerability Scanner](https://img.shields.io/badge/🔒_Web_Vulnerability_Scanner-003300?style=for-the-badge)](https://github.com/Sameer200510)
+[![Network Scanner](https://img.shields.io/badge/🌐_Network_Scanner-003300?style=for-the-badge)](https://github.com/Sameer200510)
+[![Password Cracker](https://img.shields.io/badge/🔑_Password_Cracker-003300?style=for-the-badge)](https://github.com/Sameer200510)
+
+[![Recon Script](https://img.shields.io/badge/🔍_Recon_Automation_Script-003300?style=for-the-badge)](https://github.com/Sameer200510)
+[![Smart Contract Audit](https://img.shields.io/badge/⛓️_Smart_Contract_Audit_Practice-003300?style=for-the-badge)](https://github.com/Sameer200510)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+  <img src="https://github.com/Sameer200510/Sameer200510/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+---
+
+<div align="center">
+
+⭐ **If you like my work, consider giving a star to my repositories!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sameer200510&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
