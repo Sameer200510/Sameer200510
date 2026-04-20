@@ -1,6 +1,8 @@
 <svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
+      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+      
       @keyframes fall {
         0% { transform: translateY(-100%); opacity: 0; }
         10% { opacity: 1; }
@@ -11,19 +13,19 @@
       .binary-column {
         animation: fall linear infinite;
         fill: #00ff41;
-        font-family: 'Courier New', monospace;
+        font-family: 'Share Tech Mono', 'Courier New', monospace;
         font-size: 14px;
         opacity: 0.6;
       }
       
       .main-text {
-        font-family: 'Courier New', monospace;
+        font-family: 'Share Tech Mono', 'Courier New', monospace;
         font-weight: bold;
         font-size: 120px;
         fill: #00ff41;
         stroke: #003b0f;
         stroke-width: 2;
-        letter-spacing: 8px;
+        letter-spacing: 12px;
         filter: drop-shadow(0 0 10px #00ff41) drop-shadow(0 0 20px #00ff41);
       }
       
