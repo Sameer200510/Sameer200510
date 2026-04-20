@@ -98,12 +98,15 @@ sameer.lohani@github:~$ ls ./active/
 
 ### 🚀 FEATURED PROJECTS
 
-[![Web Vulnerability Scanner](https://img.shields.io/badge/🔒_Web_Vulnerability_Scanner-003300?style=for-the-badge)](https://github.com/Sameer200510)
-[![Network Scanner](https://img.shields.io/badge/🌐_Network_Scanner-003300?style=for-the-badge)](https://github.com/Sameer200510)
-[![Password Cracker](https://img.shields.io/badge/🔑_Password_Cracker-003300?style=for-the-badge)](https://github.com/Sameer200510)
+[![Medical Record Blockchain](https://img.shields.io/badge/⛓️_Medical_Record_System_Blockchain-003300?style=for-the-badge)](https://github.com/Sameer200510/medical_record)
+[![Keylogger](https://img.shields.io/badge/⌨️_Keylogger-003300?style=for-the-badge)](https://github.com/Sameer200510/Keylogger)
+[![Railway Management System](https://img.shields.io/badge/🚆_Railway_Management_System-003300?style=for-the-badge)](https://github.com/Sameer200510/RailwayManagementSystem)
 
-[![Recon Script](https://img.shields.io/badge/🔍_Recon_Automation_Script-003300?style=for-the-badge)](https://github.com/Sameer200510)
-[![Smart Contract Audit](https://img.shields.io/badge/⛓️_Smart_Contract_Audit_Practice-003300?style=for-the-badge)](https://github.com/Sameer200510)
+[![File Compressor](https://img.shields.io/badge/📦_File_Compressor-003300?style=for-the-badge)](https://github.com/Sameer200510/FileComperssor)
+[![Samay Sudarshan v2](https://img.shields.io/badge/🕒_SamaySudarshan_v2-003300?style=for-the-badge)](https://github.com/Sameer200510/samaysudarshan-v2)
+[![LightShield WAF](https://img.shields.io/badge/🛡️_LightShield_WAF-003300?style=for-the-badge)](https://github.com/Sameer200510/LightShield)
+
+[![Malware Analysis Sandbox](https://img.shields.io/badge/🧪_Malware_Analysis_Sandbox-003300?style=for-the-badge)](https://github.com/Sameer200510/Malware-Analysis-Sandbox)
 
 </td>
 </tr>
