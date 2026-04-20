@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Snake Animation
 
 on:
   workflow_dispatch:
@@ -11,19 +11,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: Sameer200510
-          outputs: |
-            dist/snake.svg
+          outputs: dist/snake.svg
 
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git fetch origin
+          git switch -c output || git switch output
+          cp -r dist/* .
+          git add .
+          git commit -m "update snake" || echo "no changes"
+          git push origin output --force
