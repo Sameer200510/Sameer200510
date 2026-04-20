@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.svg" width="100%" alt="SAMEER LOHANI - Matrix Header"/>
+ <img src="https://raw.githubusercontent.com/Sameer200510/Sameer200510/main/header.svg" />
 </div>
 
 ---
