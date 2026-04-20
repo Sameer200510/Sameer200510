@@ -114,7 +114,7 @@ sameer.lohani@github:~$ ls ./active/
 ### 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
-  <img src="https://github.com/Sameer200510/Sameer200510/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Sameer200510/Sameer200510/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
