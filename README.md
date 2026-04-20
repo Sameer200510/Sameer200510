@@ -1,11 +1,8 @@
-<pre>
-███████╗ █████╗ ███╗   ███╗███████╗███████╗██████╗ 
-██╔════╝██╔══██╗████╗ ████║██╔════╝██╔════╝██╔══██╗
-███████╗███████║██╔████╔██║█████╗  █████╗  ██████╔╝
-╚════██║██╔══██║██║╚██╔╝██║██╔══╝  ██╔══╝  ██╔══██╗
-███████║██║  ██║██║ ╚═╝ ██║███████╗███████╗██║  ██║
-╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=35&center=true&vCenter=true&width=900&lines=SAMEER+LOHANI;Cybersecurity+Learner;VAPT+%7C+CTF+%7C+Blockchain+Security" />
+</p>
 
+<pre>
 sameer.lohani@github
 ------------------------------------------------
 Name: SAMEER LOHANI  
