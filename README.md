@@ -1,4 +1,18 @@
+### 🐍 CONTRIBUTION SNAKE
+
 <div align="center">
+<img src="https://raw.githubusercontent.com/Sameer200510/Sameer200510/output/snake.svg" />
+</div>
+
+---
+
+<div align="center">
+
+⭐ **If you like my work, consider giving a star to my repositories!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sameer200510&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+
+</div><div align="center">
  <img src="https://raw.githubusercontent.com/Sameer200510/Sameer200510/main/header.svg" />
 </div>---
 
