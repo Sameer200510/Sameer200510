@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://raw.githubusercontent.com/Sameer200510/Sameer200510/main/header.svg" />
+  <img src="https://raw.githubusercontent.com/Sameer200510/Sameer200510/main/header.svg" />
 </div>
 
 ---
@@ -16,29 +16,32 @@
 
 ### 🔐 ABOUT ME
 
-- 🔥 Passionate about **Cybersecurity & Ethical Hacking**
-- 🌐 Focused on **VAPT** (Web + Network Security)
-- 🤖 Building **automation scripts & tools**
-- ⛓️ Exploring **Blockchain & Smart Contract Security**
+* 🔥 Passionate about **Cybersecurity & Ethical Hacking**
+* 🌐 Focused on **VAPT** (Web + Network Security)
+* 🤖 Building **automation scripts & tools**
+* ⛓️ Exploring **Blockchain & Smart Contract Security**
 
 ---
 
 ### ⚡ SKILLS & TECHNOLOGIES
 
 **💻 Programming**
-- Python
-- Bash
-- Solidity
+
+* Python
+* Bash
+* Solidity
 
 **🌐 Networking**
-- TCP/IP
-- DNS
-- OSI Model
+
+* TCP/IP
+* DNS
+* OSI Model
 
 **🔒 Cybersecurity**
-- Web Vulnerability Testing
-- Reconnaissance
-- Basic Exploitation
+
+* Web Vulnerability Testing
+* Reconnaissance
+* Basic Exploitation
 
 ---
 
@@ -49,6 +52,7 @@
   <img src="https://img.shields.io/badge/Burp_Suite-003300?style=for-the-badge&logo=burpsuite&logoColor=00ff41"/>
   <img src="https://img.shields.io/badge/Wireshark-003300?style=for-the-badge&logo=wireshark&logoColor=00ff41"/>
 </p>
+
 <p>
   <img src="https://img.shields.io/badge/Metasploit-003300?style=for-the-badge&logo=metasploit&logoColor=00ff41"/>
   <img src="https://img.shields.io/badge/Kali_Linux-003300?style=for-the-badge&logo=kalilinux&logoColor=00ff41"/>
@@ -58,9 +62,11 @@
 
 ### 📬 CONNECT WITH ME
 
-[![GitHub](https://img.shields.io/badge/github.com%2FSameer200510-0d1117?style=flat-square&logo=github&logoColor=00ff41)](https://github.com/Sameer200510)
-[![Email](https://img.shields.io/badge/sameerlohani200510%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=00ff41)](mailto:sameerlohani200510@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/sameer-lohani-8b28a3291)
+[![GitHub](https://img.shields.io/badge/github.com%2FSameer200510-0d1117?style=flat-square\&logo=github\&logoColor=00ff41)](https://github.com/Sameer200510)
+
+[![Email](https://img.shields.io/badge/sameerlohani200510%40gmail.com-0d1117?style=flat-square\&logo=gmail\&logoColor=00ff41)](mailto:sameerlohani200510@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=00ff41)](https://www.linkedin.com/in/sameer-lohani-8b28a3291)
 
 ---
 
@@ -71,6 +77,7 @@
 ```
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 📊 GITHUB STATS
@@ -87,26 +94,12 @@
 sameer.lohani@github:~$ ls ./active/
 ```
 
-| 🔰 | Project |
-|:---:|---------|
-| ⚙️ | **Recon Automation Tools** |
-| 🚩 | **CTF Challenges** |
-| ⛓️ | **Smart Contract Security** |
-| 🔐 | **Cybersecurity Projects** |
-
----
-
-### 🚀 FEATURED PROJECTS
-
-[![Medical Record Blockchain](https://img.shields.io/badge/⛓️_Medical_Record_System_Blockchain-003300?style=for-the-badge)](https://github.com/Sameer200510/medical_record)
-[![Keylogger](https://img.shields.io/badge/⌨️_Keylogger-003300?style=for-the-badge)](https://github.com/Sameer200510/Keylogger)
-[![Railway Management System](https://img.shields.io/badge/🚆_Railway_Management_System-003300?style=for-the-badge)](https://github.com/Sameer200510/RailwayManagementSystem)
-
-[![File Compressor](https://img.shields.io/badge/📦_File_Compressor-003300?style=for-the-badge)](https://github.com/Sameer200510/FileComperssor)
-[![Samay Sudarshan v2](https://img.shields.io/badge/🕒_SamaySudarshan_v2-003300?style=for-the-badge)](https://github.com/Sameer200510/samaysudarshan-v2)
-[![LightShield WAF](https://img.shields.io/badge/🛡️_LightShield_WAF-003300?style=for-the-badge)](https://github.com/Sameer200510/LightShield)
-
-[![Malware Analysis Sandbox](https://img.shields.io/badge/🧪_Malware_Analysis_Sandbox-003300?style=for-the-badge)](https://github.com/Sameer200510/Malware-Analysis-Sandbox)
+|  🔰 | Project                     |
+| :-: | --------------------------- |
+|  ⚙️ | **Recon Automation Tools**  |
+|  🚩 | **CTF Challenges**          |
+|  ⛓️ | **Smart Contract Security** |
+|  🔐 | **Cybersecurity Projects**  |
 
 </td>
 </tr>
@@ -114,11 +107,10 @@ sameer.lohani@github:~$ ls ./active/
 
 ---
 
-
 ### 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Sameer200510/Sameer200510/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Sameer200510/Sameer200510/output/snake.svg" alt="Contribution Snake" />
 </div>
 
 ---
@@ -127,6 +119,6 @@ sameer.lohani@github:~$ ls ./active/
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sameer200510&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Sameer200510\&color=00ff41\&style=flat-square\&label=PROFILE+VIEWS)
 
 </div>
